@@ -5,7 +5,7 @@ slimapp klasörü sunucuya yüklendikten sonra aşağıdaki yönelendirme ile g�
 
 Örnek Yönlendirme;
 
-https://localhost:8080/api/kurgetir
+https://localhost:8080/slimapp/api/kurgetir
 
 ----------------------------------------------------------------------------------------------------------
 Günel kur bilgilerinin çekildiği adres;
