@@ -62,7 +62,6 @@ $app->get('/kurgetir', function (Request $request, Response $response) {
             ), null, JSON_UNESCAPED_UNICODE | JSON_NUMERIC_CHECK
         );
     }
-    $db = null;
 });
 
 ?>
