@@ -8,6 +8,6 @@ slimapp klasörü sunucuya yüklendikten sonra aşağıdaki yönelendirme ile g�
 https://localhost:8080/slimapp/api/kurgetir
 
 ----------------------------------------------------------------------------------------------------------
-Günel kur bilgilerinin çekildiği adres;
+Güncel kur bilgilerinin çekildiği adres;
 
 https://www.tcmb.gov.tr/kurlar/today.xml
