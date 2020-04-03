@@ -11,3 +11,7 @@ https://localhost:8080/slimapp/api/kurgetir
 Güncel kur bilgilerinin çekildiği adres;
 
 https://www.tcmb.gov.tr/kurlar/today.xml
+
+----------------------------------------------------------------------------------------------------------
+Kur arşivi -> tarihe göre kur bilgisi çekme;
+https://www.tcmb.gov.tr/kurlar/yyyyMM/ddMMyyyy.xml
