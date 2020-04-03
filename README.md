@@ -14,4 +14,5 @@ https://www.tcmb.gov.tr/kurlar/today.xml
 
 ----------------------------------------------------------------------------------------------------------
 Kur arşivi -> tarihe göre kur bilgisi çekme;
+
 https://www.tcmb.gov.tr/kurlar/yyyyMM/ddMMyyyy.xml
